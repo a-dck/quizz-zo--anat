@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz pour Zoé</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f4f4f9;
+      color: #333;
+    }
+    .question-box {
+      margin: 20px auto;
+      padding: 20px;
+      border: 2px solid #ccc;
+      border-radius: 10px;
+      width: 80%;
+      max-width: 400px;
+      background: #fff;
+    }
+    button {
+      padding: 10px 20px;
+      margin: 10px;
+      border: none;
+      border-radius: 5px;
+      background-color: #007BFF;
+      color: white;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <h1>Quiz pour Zoé</h1>
+  <div class="question-box">
+    <p id="question">Question ici...</p>
+    <img id="questionImage" src="" alt="Illustration de la question" style="max-width: 100%; display: none;" /img>
+    <div id="answers"></div>
+  </div>
+  <p id="score">Score : 0</p>
+  <button id="next">Question suivante</button>
+  
+  <script src="app.js"></script>
+</body>
+</html>
