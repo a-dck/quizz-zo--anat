@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Quiz pour Zoé</title>
+  <title>Quiz anat Zoé</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -30,18 +30,29 @@
       cursor: pointer;
     }
     button:hover {
-      background-color: #0056b3;
+      background-color: #3857af;
+    }
+    #image-container img {
+      max-width: 100%;
+      height: auto;
+      margin: 10px 0;
+    }
+    #progress {
+      font-weight: bold;
+      margin: 15px 0;
     }
   </style>
 </head>
 <body>
-  <h1>Quiz pour Zoé</h1>
+  <h1>Quiz anat Zoé</h1>
+  <div id="chapter-title" style="font-weight: bold; margin-bottom: 10px;">Titre du chapitre</div>
   <div class="question-box">
     <p id="question">Question ici...</p>
-    <img id="questionImage" src="" alt="Illustration de la question" style="max-width: 100%; display: none;" /img>
+    <div id="image-container"></div>
     <div id="answers"></div>
   </div>
   <p id="score">Score : 0</p>
+  <div id="progress">Progression : Question 1 sur X</div> <!-- Conteneur pour la progression -->
   <button id="next">Question suivante</button>
   
   <script src="app.js"></script>
