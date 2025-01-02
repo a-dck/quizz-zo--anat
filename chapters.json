@@ -9,7 +9,7 @@
             },
             {
                 "question": "Quelle est la fonction principale de l’épiglotte ?",
-                "image": "test.png",
+                "image": "epiglotte.png",
                 "answers": ["Vibrer pour produire des sons", "Protéger les cordes vocales contre les infections", "Fermer le larynx lors de la déglutition", "Soutenir le cartilage thyroïde"],
                 "correct": 2
             }
