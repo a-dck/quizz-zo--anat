@@ -12,9 +12,21 @@
                 "image": "epiglotte.png",
                 "answers": ["Vibrer pour produire des sons", "Protéger les cordes vocales contre les infections", "Fermer le larynx lors de la déglutition", "Soutenir le cartilage thyroïde"],
                 "correct": 2
+            },
+            {
+                "question": "Quel est le plus grand fleuve d'Europe ?",
+                "answers": ["Danube", "Volga", "Rhin", "Seine"],
+                "correct": 1
+            },
+            {
+                "question": "Quelle est la fonction principale de l’épiglotte ?",
+                "image": "epiglotte.png",
+                "answers": ["Vibrer pour produire des sons", "Protéger les cordes vocales contre les infections", "Fermer le larynx lors de la déglutition", "Soutenir le cartilage thyroïde"],
+                "correct": 2
             }
         ]
     },
+    
     {
         "title": "Chapitre 2 : Pharynx",
         "questions": [
@@ -22,6 +34,51 @@
                 "question": "Quel est le plus grand fleuve d'Europe ?",
                 "answers": ["Danube", "Volga", "Rhin", "Seine"],
                 "correct": 1
+            },
+            {
+                "question": "Quelle est la fonction principale de l’épiglotte ?",
+                "image": "epiglotte.png",
+                "answers": ["Vibrer pour produire des sons", "Protéger les cordes vocales contre les infections", "Fermer le larynx lors de la déglutition", "Soutenir le cartilage thyroïde"],
+                "correct": 2
+            },
+            {
+                "question": "Quel est le plus grand fleuve d'Europe ?",
+                "answers": ["Danube", "Volga", "Rhin", "Seine"],
+                "correct": 1
+            },
+            {
+                "question": "Quelle est la fonction principale de l’épiglotte ?",
+                "image": "epiglotte.png",
+                "answers": ["Vibrer pour produire des sons", "Protéger les cordes vocales contre les infections", "Fermer le larynx lors de la déglutition", "Soutenir le cartilage thyroïde"],
+                "correct": 2
+            }
+        ]
+    },
+
+    {
+        "title": "Chapitre 3 : Pharynx bis",
+        "questions": [
+            {
+                "question": "Quel est le plus grand fleuve d'Europe ?",
+                "answers": ["Danube", "Volga", "Rhin", "Seine"],
+                "correct": 1
+            },
+            {
+                "question": "Quelle est la fonction principale de l’épiglotte ?",
+                "image": "epiglotte.png",
+                "answers": ["Vibrer pour produire des sons", "Protéger les cordes vocales contre les infections", "Fermer le larynx lors de la déglutition", "Soutenir le cartilage thyroïde"],
+                "correct": 2
+            },
+            {
+                "question": "Quel est le plus grand fleuve d'Europe ?",
+                "answers": ["Danube", "Volga", "Rhin", "Seine"],
+                "correct": 1
+            },
+            {
+                "question": "Quelle est la fonction principale de l’épiglotte ?",
+                "image": "epiglotte.png",
+                "answers": ["Vibrer pour produire des sons", "Protéger les cordes vocales contre les infections", "Fermer le larynx lors de la déglutition", "Soutenir le cartilage thyroïde"],
+                "correct": 2
             }
         ]
     }
